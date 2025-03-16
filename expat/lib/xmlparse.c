@@ -8809,7 +8809,6 @@ unsignedCharToPrintable(unsigned char c) {
     assert(0); /* never gets here */
     return "dead code";
   }
-  assert(0); /* never gets here */
   // LCOV_EXCL_STOP
 }
 
